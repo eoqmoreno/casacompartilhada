@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/casacompartilhada/static/css/main.7d8dd24e.chunk.css",
-    "main.js": "/casacompartilhada/static/js/main.76104d95.chunk.js",
-    "main.js.map": "/casacompartilhada/static/js/main.76104d95.chunk.js.map",
+    "main.js": "/casacompartilhada/static/js/main.278cefc7.chunk.js",
+    "main.js.map": "/casacompartilhada/static/js/main.278cefc7.chunk.js.map",
     "runtime-main.js": "/casacompartilhada/static/js/runtime-main.1cc50d9a.js",
     "runtime-main.js.map": "/casacompartilhada/static/js/runtime-main.1cc50d9a.js.map",
     "static/js/2.eb693375.chunk.js": "/casacompartilhada/static/js/2.eb693375.chunk.js",
@@ -16,6 +16,6 @@
     "static/js/runtime-main.1cc50d9a.js",
     "static/js/2.eb693375.chunk.js",
     "static/css/main.7d8dd24e.chunk.css",
-    "static/js/main.76104d95.chunk.js"
+    "static/js/main.278cefc7.chunk.js"
   ]
 }
